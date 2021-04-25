@@ -2,10 +2,10 @@
 
 An allocation Scheme $(l_{i,S})_{i \in S,S \subseteq N} $ is a PMAS if and only if  
 
-$$\sum_{i \in S}{l_{i,S} = c(S)}$$  for all {S \subseteq N}
+$$\sum_{i \in S}{l_{i,S} = c(S)}  for all {S \subseteq N} $$
 
 and 
 
-$l_{i,S} \gep l_{i,T}$
+$l_{i,S} \geq l_{i,T}$
 
-for all $i \in S$ and $i \in T$ ,where ${S \subseteq T \subseteq N $.
+for all $i \in S$ and $i \in T$ ,where $S \subseteq T \subseteq N $.
