@@ -1,0 +1,2 @@
+- 25th Apr 2021
+- The trading scheme can in a sense achieve fairness in benefit allocation, but may not be able to achieve so with the maximal flexibility
