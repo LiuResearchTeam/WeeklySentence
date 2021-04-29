@@ -1,0 +1,2 @@
+1. 1.如果函数 $f$ 和  $\frac{∂f}{∂u}$  都在闭矩形 $I=[a,b]×[α,β]$ 上连续，函数 $p(u),q(u)$  都在$[α,β]$上可微，而且当 $α≤u≤β$时 $a≤p(u)≤b, a≤p(u)≤b$, 由$ψ(u)=\int_{p(u)}^{q(u)}f(x,u)dx$ 则：
+$ψ^\prime(u)=\int_{p(u)}^{q(u)}\frac{∂f(x,u)}{∂u}dx+f(q(u),u)q^\prime(u)-f(p(u),u)p^\prime(u)$
